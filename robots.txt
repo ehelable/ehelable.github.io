@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ehelable.github.io/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/app/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/assets/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/css/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/data/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/includes/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/item/sitemap.ehelable.gz
+Sitemap: https://ehelable.github.io/src/sitemap.ehelable.gz
